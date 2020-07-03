@@ -10,7 +10,7 @@ There are many ways to handle the problem such as
 
 - Penalizing the mistakes on the minor class. The idea is that by imposing higher cost on the mistakes on the minor class, we make the model more sensitive to the imbalanced distribution in the data.
 
-In this work, I choose the second approach. I will apply it to solve a well-known credit card fraud detection dataset.
+In this work, I choose the second approach. I will apply it to solve a well-known credit card fraud detection dataset. The work is implemented in the Colab notebook in this folder.
 
 ---
 
